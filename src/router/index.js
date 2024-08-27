@@ -23,3 +23,5 @@ const router = createRouter({
 })
 
 export default router
+// You can specify which plugins you need
+import { Tooltip, Toast, Popover } from 'bootstrap';
