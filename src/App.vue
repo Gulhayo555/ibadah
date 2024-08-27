@@ -20,7 +20,6 @@
   <Community />
   <Latest />
   <Footer></Footer>
-  <!-- <Audio/> -->
 </template>
 
 <script>
@@ -38,7 +37,7 @@ import Navigating from "@/components/Navigating.vue";
 import Community from "@/components/Community.vue";
 import Latest from "@/components/Latest.vue";
 import Footer from "@/components/Footer.vue";
-// import Audio from "@/components/Audio.vue";
+
 
 
 export default {
@@ -57,7 +56,7 @@ export default {
     Community,
     Latest,
     Footer,
-    // Audio
+    
   },
   data() {
     return {
