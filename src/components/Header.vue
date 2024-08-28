@@ -143,15 +143,12 @@ export default defineComponent({
 }
 .splide__pagination {
   justify-content: flex-start !important;
-  // left: 14% !important;
-  // bottom: 60px !important;
 }
 .splide__pagination__page {
   background-color: #fbc50b !important ;
   height: 2px !important;
   width: 36px !important;
   transform: scale(1) !important;
-  // border-radius: 2px;
   transition: 150ms ease-in-out;
   &.is-active {
     opacity: 1;

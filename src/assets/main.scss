@@ -24,7 +24,7 @@ body {
   justify-content: center;
   align-items: center;
   position: fixed;
-  z-index: 99; /* asablariz tugabdi shekilli : ) */
+  z-index: 99;
   right: 0;
   bottom: 0%;
   animation: starting 500ms 1s linear forwards;
@@ -57,7 +57,7 @@ body {
     bottom: -100%;
   }
 }
-// Boladimi :) 
+
 @keyframes rotating {
   0% {
     transform: rotate(45deg);

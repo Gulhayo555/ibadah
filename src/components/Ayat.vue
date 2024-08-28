@@ -92,8 +92,6 @@ bottom: -10% !important;
 bottom: 0 !important;
 align-items: end !important ;
 }
-.splide__slide.is-active.is-visible{
-}
 .splide__pagination__page {
   background-color: #fbc50b !important ;
   height: 3px !important;

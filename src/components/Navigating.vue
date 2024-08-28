@@ -276,9 +276,6 @@ video a{
         padding-top: 80px;
         padding-bottom: 80px;
     }
-    .community_gap{
-
-    }
 }
 @media (min-width: 992px) {
     .col-lg-3 {

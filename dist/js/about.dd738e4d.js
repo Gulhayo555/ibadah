@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkibadah"]=self["webpackChunkibadah"]||[]).push([[594],{4277:function(n,u,e){function r(n,u){return null}e.r(u),e.d(u,{default:function(){return f}});var a=e(6262);const t={},c=(0,a.A)(t,[["render",r]]);var f=c}}]);
+//# sourceMappingURL=about.dd738e4d.js.map

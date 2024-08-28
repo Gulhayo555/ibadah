@@ -378,10 +378,6 @@ ul.list li:before {
         left: 4%;
         width: 90%;
     }
-    .circle-text figure.circle-img {
-        /* width: 120px;
-        height: 120px; */
-    }
 }
 @media (max-width: 480px) {
   .heading {
